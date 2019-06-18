@@ -1,5 +1,5 @@
 # Texas
-Set up a Texas Hold'em poker in game situation (your cards, your opponents cards, and the shared cards) and calculate the probability that each player will win.
+Set up a Texas Hold'em poker in game situation (your cards, your opponents cards, and the shared cards) and calculate the probability that each player will win. To run the program, download the zip and run the executable jar file named "Poker.jar"
 ## Directions
 * Player up/down - increases or decreases the number of players respectively
 * Cards - Click on any blank card to open a CardChanging window. Input the suit and card desired and press the middle button to confirm.
